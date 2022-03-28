@@ -1,0 +1,10 @@
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\bin\Debug\SpojniceApp.exe.config
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\bin\Debug\SpojniceApp.exe
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\bin\Debug\SpojniceApp.pdb
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\obj\Debug\SpojniceApp.csprojAssemblyReference.cache
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\obj\Debug\SpojniceApp.Form1.resources
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\obj\Debug\SpojniceApp.Properties.Resources.resources
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\obj\Debug\SpojniceApp.csproj.GenerateResource.cache
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\obj\Debug\SpojniceApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\obj\Debug\SpojniceApp.exe
+C:\Users\Aleksandar\source\repos\SpojniceApp\SpojniceApp\obj\Debug\SpojniceApp.pdb
